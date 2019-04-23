@@ -3,6 +3,10 @@ Official Repository for tscd ASCII-Color Encoded Hex Dump For 256-bit ASCII Colo
 
 Introducing tscd:
 
+SHA256 CHECKSUM:
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha256sum_tscd4_c_jpeg.JPG)
+
 SUPPORTED TERMINALS
 
 For 256-bit ASCII Color-Supporting Terminal Emulators
