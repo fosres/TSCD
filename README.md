@@ -3,6 +3,12 @@ Official Repository for tscd ASCII-Color Encoded Hex Dump For 256-bit ASCII Colo
 
 Introducing tscd:
 
+SUPPORTED TERMINALS
+
+For 256-bit ASCII Color-Supporting Terminal Emulators
+
+e.g.: xterm-256, CYGWIN
+
 INSTRUCTIONS TO DOWNLOAD:
 
 Step 1:
