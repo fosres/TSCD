@@ -21,6 +21,10 @@ Step 2:
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
 
+NOTE: macOS users must follow the following command
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/macOS_step2_download_instructions_jpeg.png)
+
 NAME
 
 tscd
