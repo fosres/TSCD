@@ -25,6 +25,22 @@ DESCRIPTION
 
 tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The numerical values will be displayed in a table.To the rightmost of each row will be the ASCII characters corresponding to the ASCII codes in the table.
 
+COLOR ENCODINGS
+
+Below is the Color Encoding Scheme (ASCII):
+
+Red: Non-printable ASCII characters
+
+Orange: Printable (Alphabetic) Characters
+
+Yellow: Base 10 Numerical Digits
+
+Green: ASCII Whitespace Characters
+
+Purple: Punctuation Characters
+
+Gray: NUL byte (00)
+
 OPTIONS
 
 -b Binary dump specified. Each character in file will be translated into its binary number form and displayed in the table.
