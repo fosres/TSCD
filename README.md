@@ -29,12 +29,13 @@ EXAMPLES
 
 Print simple hexdump of a file to stdout
 
-% tscd swiss.txt
-
-00000000:  49 20 6c 69 6b 65 20 63 68 65 65 73 65 73 2e 0a I like cheeses.·⏎
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_jpeg.JPG)
 
 
-Print simple hexdump of a file where 20 ASCII hexadecimal codes are printed per row to stdout
+
+Print simple hexdump of a file where 16 ASCII hexadecimal codes are printed per row to stdout
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_c_16_swiss_cheese_c_jpeg.JPG)
 
 % tscd -c 20 swiss_cheese.c
 
