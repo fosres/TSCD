@@ -1,5 +1,5 @@
 # TSCD
-Official Repository for tscd ASCII-Color Encoded Hex Dump
+Official Repository for tscd ASCII-Color Encoded Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
 Introducing tscd:
 
