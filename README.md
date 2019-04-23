@@ -81,4 +81,8 @@ Step 2:
 
 (The file above is being viewed in vim. No color codes can be encoded into a text file.)
 
+CONTACT ME
+
+All questions, comments, complaints, criticism, and hate mail can be sent to: Tanveer.Salim@ttu.edu
+
 
