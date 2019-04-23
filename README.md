@@ -3,6 +3,16 @@ Official Repository for tscd ASCII-Color Encoded Hex Dump
 
 Introducing tscd:
 
+INSTRUCTIONS TO DOWNLOAD:
+
+Step 1:
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_download_instructions_jpeg.JPG)
+
+Step 2:
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
+
 NAME
 
 tscd
