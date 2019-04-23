@@ -37,22 +37,16 @@ Print simple hexdump of a file where 16 ASCII hexadecimal codes are printed per 
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_c_16_swiss_cheese_c_jpeg.JPG)
 
-% tscd -c 20 swiss_cheese.c
-
-00000000:  49 20 6c 69 6b 65 20 63 6f 6f 6b 69 65 73 2e 0a 0a 49 20 6c I like cookies.··I l
-00000014:  69 6b 65 20 63 6f 6f 6b 69 65 73 2e 0a 0a 49 20 6c 69 6b 65 ike cookies.··I like
-00000028:  20 63 6f 6f 6b 69 65 73 2e 0a 0a 49 20 6c 69 6b 65 20 63 6f  cookies.··I like co
-0000003c:  6f 6b 69 65 73 2e 0a 0a 49 20 6c 69 6b 65 20 63 6f 6f 6b 69 okies.··I like cooki
-00000050:  65 73 2e 0a 0a 49 20 6c 69 6b 65 20 63 6f 6f 6b 69 65 73 2e es.··I like cookies.
-00000064:  0a 
-\end{minted}
-
 Print binary dump of a file named tscd4.c to a separate file named target.c
 
-% tscd -b swiss.txt swiss_binary_dump.txt
+Step 1:
 
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_swiss_binary_txt_jpeg.JPG)
 
+Step 2:
 
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
+(The file above is being viewed in vim. No color codes can be encoded into a text file.)
 
 
