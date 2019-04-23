@@ -75,7 +75,7 @@ Print binary dump of a file named tscd4.c to stdout
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_dump_tscd_4_c_jpeg.JPG)
 
-Print binary dump of a file named tscd4.c to a separate file named target.c
+Print binary dump of a file named swiss.txt to a separate file named swiss_binary_dump.txt
 
 Step 1:
 
