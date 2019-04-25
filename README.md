@@ -27,7 +27,7 @@ Step 2 For macOS Users:
 
 Step 3
 
-SHA256 CHECKSUM:
+SHA256 CHECKSUM (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha256sum_tscd4_c_jpeg.JPG)
 
