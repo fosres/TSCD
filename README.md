@@ -96,7 +96,7 @@ Step 1:
 
 Step 2:
 
-(The file above is being viewed in vim. No color codes can be encoded into a text file.)
+(The file below is being viewed in vim. No color codes can be encoded into a text file.)
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
