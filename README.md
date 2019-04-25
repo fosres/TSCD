@@ -17,13 +17,9 @@ Step 1:
 
 You can also use another command-line utility online download tool, like curl or wget.
 
-Step 2 For Windows and Linux Users:
+Step 2
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
-
-Step 2 For macOS Users:
-
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/macOS_step_2_download_instructions_jpeg.JPG)
 
 Step 3
 
