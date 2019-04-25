@@ -69,6 +69,9 @@ OPTIONS
 
 -o Octal Dump specified. Each character in file will be translated into its octal number form and displayed in the table.
 
+-p Print view specified. tscd will simply print the contents of the file directly intointo stdout.
+
+
 EXAMPLES
 
 Print simple hexdump of a file to stdout
