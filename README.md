@@ -7,7 +7,7 @@ SUPPORTED TERMINALS
 
 For 256-bit ASCII Color-Supporting Terminal Emulators
 
-e.g.: xterm-256, CYGWIN
+e.g.: xterm-256
 
 INSTRUCTIONS TO DOWNLOAD:
 
