@@ -88,9 +88,9 @@ Print binary dump of a file named tscd4.c to stdout
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_dump_tscd_4_c_jpeg.JPG)
 
-Print binary dump of a file named swiss.txt where up to six binary octects appear per row, to stdout
+Print binary dump of a file named swiss.txt where up to four binary octects appear per row, to stdout
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_column_6_swiss_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_dump_column_4_swiss_txt_jpeg.JPG)
 
 Print binary dump of a file named swiss.txt to a separate file named swiss_binary_dump.txt
 
