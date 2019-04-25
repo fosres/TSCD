@@ -96,12 +96,12 @@ Step 1:
 
 Step 2:
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
-
 (The file above is being viewed in vim. No color codes can be encoded into a text file.)
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
 CONTACT ME
 
-All questions, comments, complaints, criticism, and hate mail can be sent to: Tanveer.Salim@ttu.edu
+All questions, comments, compliments, complaints, criticism, and hate mail can be sent to: Tanveer.Salim@ttu.edu
 
 
