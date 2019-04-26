@@ -6,7 +6,9 @@ This software is distributed with a GNU GPL
 License v2.0. All are free to copy, share, 
 	
 	
-distribute, and/or modify this software.
+distribute, and/or modify this software,
+	
+even commercially.
 
 All software that was inspired
 
