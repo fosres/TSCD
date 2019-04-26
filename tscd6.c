@@ -1,7 +1,9 @@
 #if 0
 Copyright (C) Tanveer Salim 2018-INFINITY
 
-This software is distributed with a GNU GPL
+This software and all other software in
+
+this repository is distributed with a GNU GPL
 
 License v2.0. All are free to copy, share, 
 	
