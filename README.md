@@ -23,11 +23,11 @@ Step 2
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
 
-Step 3
+Step 3 (Optional)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/shasums_pic_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/shasums_new_jpeg.JPG)
 
 NAME
 
