@@ -1,6 +1,8 @@
 # TSCD Hex Dump
 Official Repository for tscd ASCII-Color Encoded Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_gif_demo.gif)
+
 Introducing tscd:
 
 SUPPORTED TERMINALS
