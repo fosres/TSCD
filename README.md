@@ -106,6 +106,12 @@ All questions, comments, compliments, complaints, criticism, and hate mail can b
 
 LICENSE STATEMENT AND COPYLEFT PERMISSIONS
 
+NOTICE: All the software in this repository
+
+comes with absolutely
+
+NO WARRANTY and provided "as is" basis.
+
 Copyright (C) Tanveer Salim 2018-INFINITY
 
 This software and all other software in this
