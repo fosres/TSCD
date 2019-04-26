@@ -11,7 +11,7 @@ For 256-bit ASCII Color-Supporting Terminal Emulators
 
 e.g.: xterm-256
 
-INSTRUCTIONS TO DOWNLOAD:
+INSTRUCTIONS TO DOWNLOAD USING COMMAND LINE:
 
 Step 1:
 
