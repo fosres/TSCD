@@ -14,9 +14,9 @@ For 256-bit ASCII Color-Supporting Terminal Emulators
 
 e.g.: xterm-256
 
-## Ways To Download
+## Download Options
 
-### Method 1 - Using aria2c:
+### Option 1 - Using aria2c:
 
 #### Step 1
 
@@ -32,7 +32,7 @@ gcc tscd6.c -o tscd
 mv tscd /usr/local/bin
 ```
 
-### Method 2 - Cloning Into Repository:
+### Option 2 - Cloning Into Repository:
 
 #### Step 1
 
