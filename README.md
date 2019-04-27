@@ -40,7 +40,7 @@ mv tscd /usr/local/bin
 git clone https://github.com/tanveerasalim/TSCD.git
 ```
 
-#### Step 3 (Optional)
+#### (Optional)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
