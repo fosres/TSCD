@@ -38,6 +38,19 @@ mv tscd /usr/local/bin
 
 ```bash
 git clone https://github.com/tanveerasalim/TSCD.git
+
+```
+
+#### Step 2
+
+```bash
+cd TSCD/
+
+cd src/
+
+gcc tscd6.c -o tscd
+
+sudo cp tscd /usr/local/bin
 ```
 
 ### (Optional: Verify SHAChecksums)
