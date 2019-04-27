@@ -1,9 +1,9 @@
 # TSCD Hex Dump
-A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
+
+Introducing `tscd`: A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_demo.gif)
 
-Introducing `tscd`:
 
 ## SUPPORTED TERMINAL EMULATORS
 
@@ -33,7 +33,7 @@ mv tscd /usr/local/bin
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/shasums_new_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha/shasums_new_jpeg.JPG)
 
 ## Manual
 
