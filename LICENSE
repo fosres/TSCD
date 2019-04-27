@@ -338,37 +338,23 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
+tscd: A 256-bit ASCII Color Encoded Hexdump Program
+Copyright (C) 2019 Tanveer Salim
 
-Copyright (C) Tanveer Salim 2018-INFINITY
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
 
-NOTICE: All software in this repository
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-comes with absolutely
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-NO WARRANTY and provided "as is" basis.
-
-This software and all other software in
-
-this repository is distributed with a GNU GPL
-
-License v2.0. All are free to copy, share, 
-	
-	
-distribute, and/or modify this software,
-	
-even commercially as long as it compliant
-
-with GNU GPL v2.0 LICENSING terms as well
-
-as the terms of this copyright and license
-
-statement.
-
-All software that was inspired
-
-or is a derivative of this work must have
-
-the exact same LICENSE and copyright permissions.
 
 
 

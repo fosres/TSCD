@@ -109,36 +109,22 @@ All questions, comments, compliments, complaints, criticism, and hate mail can b
 
 ## LICENSE STATEMENT AND COPYLEFT PERMISSIONS
 
-NOTICE: All the software in this repository
+tscd: A 256-bit ASCII Color Encoded Hexdump Program
+Copyright (C) 2019 Tanveer Salim
 
-comes with absolutely
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
 
-NO WARRANTY and provided "as is" basis.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-Copyright (C) Tanveer Salim 2018-INFINITY
-
-This software and all other software in this
-
-repository is distributed with a GNU GPL
-
-License v2.0. All are free to copy, share, 
-	
-	
-distribute, and/or modify this software,
-	
-even commercially as long as it compliant
-
-with GNU GPL v2.0 LICENSING terms as well
-
-as the terms of this copyright and license
-
-statement.
-
-All software that was inspired
-
-or is a derivative of this work must have
-
-the exact same LICENSE and copyright permissions.
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
 
