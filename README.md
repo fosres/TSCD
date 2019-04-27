@@ -16,7 +16,7 @@ e.g.: xterm-256
 
 ## Download Instructions
 
-### Command Line Instructions:
+### Using aria2c:
 
 #### Step 1
 
@@ -30,6 +30,12 @@ aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/src/tscd6.c
 gcc tscd6.c -o tscd
 
 mv tscd /usr/local/bin
+```
+
+### Cloning Into Repository
+
+```bash
+git clone https://github.com/tanveerasalim/TSCD.git
 ```
 
 #### Step 3 (Optional)
