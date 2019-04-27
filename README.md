@@ -14,7 +14,7 @@ For 256-bit ASCII Color-Supporting Terminal Emulators
 
 e.g.: xterm-256
 
-## Download Instructions
+## Download Methods
 
 ### Method 1 - Using aria2c:
 
