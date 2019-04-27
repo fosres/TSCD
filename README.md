@@ -17,7 +17,7 @@ Step 1:
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_download_instructions_jpeg.JPG)
 
-![ ](https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c)
+![](https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c)
 
 You can also use another command-line utility online download tool, like curl or wget.
 
