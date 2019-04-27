@@ -59,6 +59,8 @@ sudo cp tscd /usr/local/bin
 
 ### Option 3 - Use Install Script After Git Clone:
 
+NOTE: Will NOT Work in CYGWIN
+
 #### Step 1
 
 ```bash
