@@ -23,6 +23,12 @@ aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c
 
 #### Step 2
 
+```bash
+gcc tscd6.c -o tscd
+
+mv tscd /usr/local/bin
+```
+
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
 
 #### Step 3 (Optional)
