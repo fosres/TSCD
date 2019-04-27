@@ -36,7 +36,7 @@ mv tscd /usr/local/bin
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha/shasums_new_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha/shasums_correct_license_statement_jpeg.JPG)
 
 ## Manual
 
