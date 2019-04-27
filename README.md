@@ -37,19 +37,19 @@ SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
 ## Manual
 
-NAME
+### NAME
 
 tscd
 
-SYNOPSIS
+### SYNOPSIS
 
 tscd [options] [infile [outfile]]
 
-DESCRIPTION
+### DESCRIPTION
 
 tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The numerical values will be displayed in a table.To the rightmost of each row will be the ASCII characters corresponding to the ASCII codes in the table.
 
-COLOR ENCODINGS
+### COLOR ENCODINGS
 
 Below is the Color Encoding Scheme (ASCII):
 
@@ -65,7 +65,7 @@ Purple: Punctuation Characters
 
 Gray: NUL byte (00)
 
-OPTIONS
+### OPTIONS
 
 -b Binary dump specified. Each character in file will be translated into its binary number form and displayed in the table.
 
@@ -78,7 +78,7 @@ OPTIONS
 -p Print view specified. tscd will simply print the contents of the file directly intointo stdout.
 
 
-EXAMPLES
+## EXAMPLES
 
 Print simple hexdump of a file to stdout
 
@@ -100,21 +100,21 @@ Print binary dump of a file named swiss.txt where up to four binary octects appe
 
 Print binary dump of a file named swiss.txt to a separate file named swiss_binary_dump.txt
 
-Step 1:
+### Step 1:
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_swiss_binary_txt_jpeg.JPG)
 
-Step 2:
+### Step 2:
 
 (The file below is being viewed in vim. No color codes can be encoded into a text file.)
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
-CONTACT ME
+## CONTACT ME
 
 All questions, comments, compliments, complaints, criticism, and hate mail can be sent to: Tanveer.Salim@ttu.edu
 
-LICENSE STATEMENT AND COPYLEFT PERMISSIONS
+## LICENSE STATEMENT AND COPYLEFT PERMISSIONS
 
 NOTICE: All the software in this repository
 
