@@ -35,7 +35,9 @@ SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/shasums_new_jpeg.JPG)
 
-## NAME
+## Manual
+
+NAME
 
 tscd
 
