@@ -13,7 +13,7 @@ e.g.: xterm-256
 
 ## Download Instructions
 
-### Download With Command Line:
+### Command Line Instructions:
 
 #### Step 1
 
@@ -29,15 +29,13 @@ gcc tscd6.c -o tscd
 mv tscd /usr/local/bin
 ```
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
-
 #### Step 3 (Optional)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/shasums_new_jpeg.JPG)
 
-NAME
+## NAME
 
 tscd
 
