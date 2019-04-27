@@ -1,11 +1,11 @@
 # TSCD Hex Dump
 A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_demo.gif)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_demo.gif)
 
-Introducing tscd:
+Introducing `tscd`:
 
-SUPPORTED TERMINAL EMULATORS
+## SUPPORTED TERMINAL EMULATORS
 
 For 256-bit ASCII Color-Supporting Terminal Emulators
 
@@ -18,7 +18,7 @@ e.g.: xterm-256
 #### Step 1
 
 ```bash
-aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c
+aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/src/tscd6.c
 ```
 
 #### Step 2
@@ -33,7 +33,7 @@ mv tscd /usr/local/bin
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/shasums_new_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/shasums_new_jpeg.JPG)
 
 ## Manual
 
@@ -53,7 +53,7 @@ tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The n
 
 #### Below is the Color Encoding Scheme (ASCII):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/ascii_color_encoding_scheme_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/ascii_color_encoding_scheme_jpeg.JPG)
 
 ### OPTIONS
 
@@ -72,33 +72,33 @@ tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The n
 
 Print simple hexdump of a file to stdout
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_swiss_jpeg.JPG)
 
 
 
 Print simple hexdump of a file where 16 ASCII hexadecimal codes are printed per row to stdout
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_c_16_swiss_cheese_c_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_c_16_swiss_cheese_c_jpeg.JPG)
 
 Print binary dump of a file named tscd4.c to stdout
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_dump_tscd_4_c_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_binary_dump_tscd_4_c_jpeg.JPG)
 
 Print binary dump of a file named swiss.txt where up to four binary octects appear per row, to stdout
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_binary_dump_column_4_swiss_txt_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_binary_dump_column_4_swiss_txt_jpeg.JPG)
 
 Print binary dump of a file named swiss.txt to a separate file named swiss_binary_dump.txt
 
 ### Step 1:
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_swiss_binary_txt_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/step_1_swiss_binary_txt_jpeg.JPG)
 
 ### Step 2:
 
 (The file below is being viewed in vim. No color codes can be encoded into a text file.)
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/tscd_swiss_binary_dump_txt_jpeg.JPG)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
 ## CONTACT ME
 
