@@ -53,6 +53,24 @@ gcc tscd6.c -o tscd
 sudo cp tscd /usr/local/bin
 ```
 
+###Option 3 - Use Install Script After Git Clone:
+
+#### Step 1
+
+```bash
+git clone https://github.com/tanveerasalim/TSCD.git
+```
+
+#### Step 2
+
+```bash
+cd TSCD/
+
+sudo chmod u+x install.sh
+
+./install.sh
+```
+
 ### (Optional: Verify SHA Checksums)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
