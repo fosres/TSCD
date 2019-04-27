@@ -11,15 +11,18 @@ For 256-bit ASCII Color-Supporting Terminal Emulators
 
 e.g.: xterm-256
 
+## Download Instructions
 INSTRUCTIONS TO DOWNLOAD USING COMMAND LINE:
 
 Step 1:
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_download_instructions_jpeg.JPG)
 
 ```bash
 aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c
 ```
+
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_1_download_instructions_jpeg.JPG)
+
 You can also use another command-line utility online download tool, like curl or wget.
 
 Step 2
