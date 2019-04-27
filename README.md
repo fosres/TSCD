@@ -16,7 +16,7 @@ e.g.: xterm-256
 
 ## Download Instructions
 
-### Using aria2c:
+### Method 1 - Using aria2c:
 
 #### Step 1
 
@@ -32,7 +32,7 @@ gcc tscd6.c -o tscd
 mv tscd /usr/local/bin
 ```
 
-### Cloning Into Repository
+### Method 2 - Cloning Into Repository:
 
 #### Step 1
 
