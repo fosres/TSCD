@@ -1,9 +1,0 @@
-TSCD_v1.1_rep_archive.tar.gz Checksums
-
-SHA256SUM:
-
-05e90014405ee4fb526f78660dc90c51ff59d37c30604c9775588adc8d44ea54 *TSCD_v1.1_repo_archive.tar.gz
-
-SHA512SUM:
-
-408488ba7f56ad235552cc71faac44606e89504e6db8f1de823c3c46f2cf90bbfc708cb5d1a319786ac309dae82b03e91e9eaa80e74b2783ef75fd6e007d3258 *TSCD_v1.1_repo_archive.tar.gz
