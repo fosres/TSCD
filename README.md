@@ -51,19 +51,9 @@ tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The n
 
 ### COLOR ENCODINGS
 
-Below is the Color Encoding Scheme (ASCII):
+#### Below is the Color Encoding Scheme (ASCII):
 
-Red: Non-printable ASCII characters
-
-Orange: Printable (Alphabetic) Characters
-
-Yellow: Base 10 Numerical Digits
-
-Green: ASCII Whitespace Characters
-
-Purple: Punctuation Characters
-
-Gray: NUL byte (00)
+![alt text](https://github.com/tanveerasalim/TSCD/blob/master/ascii_color_encoding_scheme_jpeg.JPG)
 
 ### OPTIONS
 
