@@ -56,7 +56,7 @@ tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The n
 
 ### COLOR ENCODINGS
 
-#### Below is The Color Encoding Scheme (ASCII):
+#### Below Is The Color Encoding Scheme (ASCII):
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/ascii_color_encoding_scheme_jpeg.JPG)
 
