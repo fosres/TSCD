@@ -34,6 +34,8 @@ mv tscd /usr/local/bin
 
 ### Cloning Into Repository
 
+#### Step 1
+
 ```bash
 git clone https://github.com/tanveerasalim/TSCD.git
 ```
