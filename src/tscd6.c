@@ -85,21 +85,21 @@ Simple! :D
 #endif
 //#define NUM_HEX_ROWS_ORIGINAL 16
 
-static rsize_t NUM_HEX_ROWS = 16;
+ rsize_t NUM_HEX_ROWS = 16;
 
-static rsize_t NUM_BIN_ROWS = 6;
+ rsize_t NUM_BIN_ROWS = 6;
 
-static rsize_t NUM_OCT_ROWS = 12;
+ rsize_t NUM_OCT_ROWS = 12;
 
-static rsize_t NUM_DEC_ROWS = 12;
+ rsize_t NUM_DEC_ROWS = 12;
 
-static rsize_t UTF8_HEX_ROWS = 6;
+ rsize_t UTF8_HEX_ROWS = 6;
 
-static _Bool bintable_request = 0;
+ _Bool bintable_request = 0;
 
-static _Bool octtable_request = 0;
+ _Bool octtable_request = 0;
 
-static _Bool dectable_request = 0;
+ _Bool dectable_request = 0;
 
 
 void colorchar(uint8_t c)
