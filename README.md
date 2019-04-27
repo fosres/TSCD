@@ -5,7 +5,7 @@ A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
 Introducing tscd:
 
-SUPPORTED TERMINALS
+SUPPORTED TERMINAL EMULATORS
 
 For 256-bit ASCII Color-Supporting Terminal Emulators
 
