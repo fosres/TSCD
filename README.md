@@ -1,6 +1,6 @@
 # TSCD Hex Dump
 
-![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/License-GNU%20GPL%20v2.0-brightgreen.svg)
+![] (https://img.shields.io/badge/price-free-blue.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/License-GNU%20GPL%20v2.0-brightgreen.svg)
 
 
 Introducing `tscd`: A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
