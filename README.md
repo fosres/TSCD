@@ -53,7 +53,7 @@ gcc tscd6.c -o tscd
 sudo cp tscd /usr/local/bin
 ```
 
-###Option 3 - Use Install Script After Git Clone:
+### Option 3 - Use Install Script After Git Clone:
 
 #### Step 1
 
