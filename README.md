@@ -8,11 +8,15 @@ Introducing `tscd`: A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emula
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_demo.gif)
 
 
-## SUPPORTED TERMINAL EMULATORS
+## SUPPORTED PLATFORMS/TERMINALS
 
-For 256-bit ASCII Color-Supporting Terminal Emulators
+* CYGWIN on Windows
 
-e.g.: xterm-256
+* macOS-Terminal
+
+* macOS-iTerm2
+
+* All Linux Terminal Emulators
 
 ## Download Options
 
