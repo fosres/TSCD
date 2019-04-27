@@ -13,19 +13,19 @@ e.g.: xterm-256
 
 ## Download Instructions
 
-###Download With Command Line:
+### Download With Command Line:
 
-####Step 1
+#### Step 1
 
 ```bash
 aria2c https://raw.githubusercontent.com/tanveerasalim/TSCD/master/tscd6.c
 ```
 
-####Step 2
+#### Step 2
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/step_2_download_instructions_jpeg.JPG)
 
-####Step 3 (Optional)
+#### Step 3 (Optional)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
