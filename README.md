@@ -1,5 +1,7 @@
 # TSCD Hex Dump
 
+![alt text](https://img.shields.io/badge/build-passing-brightgreen.svg)
+
 Introducing `tscd`: A Hex Dump For 256-bit ASCII Color-Supporting Terminal Emulators
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_demo.gif)
