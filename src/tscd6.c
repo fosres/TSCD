@@ -1,7 +1,13 @@
 #if 0
-
 tscd: A 256-bit ASCII Color Encoded Hexdump Program
-Copyright (C) 2019 Tanveer Salim
+Copyright (C) 2019 Tanveer Salim 
+
+Email: Tanveer.Salim@ttu.edu
+
+Mail:
+Tanveer Salim
+131A Bledsoe - TTU
+Lubbock, TX, 79406-0016
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License

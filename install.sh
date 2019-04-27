@@ -1,6 +1,8 @@
 : '
 tscd: A 256-bit ASCII Color Encoded Hexdump Program
-Copyright (C) 2019 Tanveer Salim Email: Tanveer.Salim@ttu.edu
+Copyright (C) 2019 Tanveer Salim 
+
+Email: Tanveer.Salim@ttu.edu
 
 Mail:
 Tanveer Salim
