@@ -53,7 +53,7 @@ gcc tscd6.c -o tscd
 sudo cp tscd /usr/local/bin
 ```
 
-### (Optional: Verify SHAChecksums)
+### (Optional: Verify SHA Checksums)
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
