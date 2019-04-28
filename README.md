@@ -107,7 +107,7 @@ tscd can create a hexadecimal, decimal, binary, or octal dump of any file. The n
 
 -b Binary dump specified. Each character in file will be translated into its binary number form and displayed in the table.
 
--c Specify number of columns per row in ASCII code table.
+-c [Number of Columns] Specify number of columns per row in ASCII code table.
 
 -d Decimal Dump specified. Each character in file will be translated into its binary number form and displayed in the table.
 
