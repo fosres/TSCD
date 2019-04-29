@@ -1,7 +1,5 @@
 # TSCD Hex Dump
 
-![](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_official_logo_jpeg.JPG)
-
 ![](https://img.shields.io/badge/price-free-blue.svg) ![](https://img.shields.io/badge/build-passing-brightgreen.svg) ![](https://img.shields.io/badge/License-GNU%20GPL%20v2.0-brightgreen.svg) [![Github All Releases](https://img.shields.io/github/downloads/tanveerasalim/TSCD/total.svg)]()
 
 
