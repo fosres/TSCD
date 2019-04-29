@@ -81,8 +81,6 @@ sudo chmod u+x install.sh
 
 SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
-![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha/shasums_correct_license_notice_jpeg.JPG)
-
 #### SHA1SUM
 
 ```bash
