@@ -83,6 +83,23 @@ SHA CHECKSUMS (text file of SHA1, SHA256, and SHA512 checksums in shasums.txt):
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/sha/shasums_correct_license_notice_jpeg.JPG)
 
+#### SHA1SUM
+
+```bash
+1c4d47967e12dfb8d824b3c380b304af9a70adef *tscd6.c
+```
+#### SHA256SUM
+
+```bash
+b6d3024cf3c8802ffc4c5d64b5004d282a5328e00abb20e6c771ea57b42f7230 *tscd6.c
+```
+
+#### SHA512SUM
+
+```bash
+be29d2ea8c2c01b043853d1ab366bc2ba0458e3ef9842924de87220e3434b881d639a6f5154a4d407e81b3076acc9b9a66903fe9c9dc5e1a88e2444f6533ad93 *tscd6.c
+```
+
 ## Manual
 
 ### NAME
