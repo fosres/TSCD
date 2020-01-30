@@ -163,10 +163,6 @@ Print binary dump of a file named swiss.txt to a separate file named swiss_binar
 
 ![alt text](https://github.com/tanveerasalim/TSCD/blob/master/pics/tscd_swiss_binary_dump_txt_jpeg.JPG)
 
-## CONTACT ME
-
-All questions, comments, compliments, complaints, criticism, and hate mail can be sent to: Tanveer.Salim@ttu.edu
-
 ## LICENSE STATEMENT AND COPYLEFT PERMISSIONS
 
 tscd: A 256-bit ASCII Color Encoded Hexdump Program
